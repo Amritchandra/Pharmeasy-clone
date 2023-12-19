@@ -40,34 +40,42 @@ footer pharmeasy
 
 The Login page :-
 
-login using email id and passoword
-check for wrong credentials
-send alerts
-pharmeasy
+1.login using email id and passoword
+2.check for wrong credentials
+3.send alerts
+![Screenshot 2023-12-19 165726](https://github.com/Amritchandra/Pharmeasy-clone/assets/136235545/3518fbee-d866-4091-8f05-c9a1e734b15a)
+
 
 The Signup page :-
 
-sign up using email id
-redirect to login page
-Untitled
+1.sign up using email id
+2.redirect to login page
+
+![Screenshot 2023-12-19 165746](https://github.com/Amritchandra/Pharmeasy-clone/assets/136235545/17f541d9-b3d9-413a-b7bf-2f75a213e741)
+
+
 The Product page :-
 
-browse through multiple products
-add products to cart
-see product details pharmeasy
+1.browse through multiple products
+2.add products to cart
+
+![Screenshot 2023-12-19 170213](https://github.com/Amritchandra/Pharmeasy-clone/assets/136235545/f31bd267-baf4-4aa9-9dfd-e866cde95ce3)
+
+
 Cart Page :-
 
-view added products
-delete added products
-change quantity
-move to payment page pharmeasy
-Payment Page
+1.view added products
+2.delete added products
+3.change quantity
 
-pay usinf mobikwik
-pay using cod
-complete order pharmeasy
-FAQ page
+![Screenshot 2023-12-19 170241](https://github.com/Amritchandra/Pharmeasy-clone/assets/136235545/c0fb0b31-1fe2-4e21-b941-077251444de5)
 
-browse categories throughout
-Screenshot 2023-09-19 at 9 37 11 PM
+Payment Page:-
+
+1.pay usinf mobikwik
+2.pay using cod
+3.complete order pharmeasy
+
+![Screenshot 2023-12-19 170303](https://github.com/Amritchandra/Pharmeasy-clone/assets/136235545/8eb48faf-8e0c-498a-8095-3d9a09506e88)
+
 Thankyou
